@@ -150,7 +150,7 @@ Includes the following fields:
 
 ---
 # Dashboard - B
-![Sales Performance Dashboard](Sales_Performance_Dashboard-B.PNG)
+![Sales Performance Dashboard B](Sales_Performance_Dashoboard-B.PNG)
 ---
 ##  Dashboard B Insights
 
@@ -212,7 +212,6 @@ Includes the following fields:
 ** Recommendations:**
 - Maintain current **channel strategies** while identifying possible **efficiency improvements** for Distributor & Export.
 
----
 
 ---
 
