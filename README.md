@@ -80,13 +80,14 @@ Includes the following fields:
 
 
 ---
+# Dashboard - A
 ![Sales Performance Dashboard](Sales_Performance_Dashboard-A.PNG)
 ---
-## 📈 Dashboard A Insights
+##  Dashboard A Insights
 
 ---
 
-### 🔢 Key Performance Metrics
+###  Key Performance Metrics
 
 - **Total Sales:** $53.5 million (_1.65% increase vs prior year_)
 - **Profit:** $19.8 million (_0.56% increase vs prior year_)
@@ -95,7 +96,7 @@ Includes the following fields:
 
 ---
 
-### 📦 Product Performance Analysis
+###  Product Performance Analysis
 
 - **Top Performers:** Product 1 is the strongest seller (_highest bar in the chart_)
 - **Consistent Products:** Several products show similar performance YoY (_equal bar heights_)
@@ -103,7 +104,7 @@ Includes the following fields:
 
 ---
 
-### 📅 Monthly Sales Trend
+###  Monthly Sales Trend
 
 - **Seasonal Pattern:** Sales peak around **April–May** and **October–November**
 - **YoY Growth:** Most months show current year sales > prior year (_blue bars > orange_)
@@ -111,7 +112,7 @@ Includes the following fields:
 
 ---
 
-### 👥 Customer Analysis
+###  Customer Analysis
 
 - **Top Customers:** Linde, ORTA'S C..., and Apotheca... are top contributors
 - **Customer Concentration:** Top 3–5 customers account for a large portion of sales
@@ -119,7 +120,7 @@ Includes the following fields:
 
 ---
 
-### 🗺️ Geographic Distribution
+###  Geographic Distribution
 
 - **Top Cities by Sales:**
   - Christchurch – **22.98%**
@@ -131,7 +132,7 @@ Includes the following fields:
 
 ---
 
-### 🛒 Channel Performance
+###  Channel Performance
 
 - **Most Profitable:** **Wholesale** delivers the highest absolute profit
 - **Healthy Margins:** All channels maintain margins between **36.8% – 37.1%**
@@ -139,7 +140,7 @@ Includes the following fields:
 
 ---
 
-### ✅ Recommendations
+###  Recommendations
 
 1. Analyze and replicate **Product 1's success strategy** across other product lines
 2. Leverage **seasonal peaks** with focused marketing efforts
@@ -148,8 +149,74 @@ Includes the following fields:
 5. Maintain profitability while exploring **operational efficiencies** in sales channels
 
 ---
+# Dashboard - B
+![Sales Performance Dashboard](Sales_Performance_Dashboard-B.PNG)
+---
+##  Dashboard B Insights
 
 ---
+
+###  Key Performance Metrics _(Same as Dashboard A)_
+
+- **Total Sales:** $53.5M (_1.65% YoY growth_)
+- **Profit:** $19.8M (_0.56% YoY growth_)
+- **Profit Margin:** 37.0% (_Stable and strong_)
+- **Products Sold:** 23.2K units
+
+---
+
+###  Product Performance Deep Dive
+
+- **Top Product Alert:** A product (possibly mislabeled as "probability") shows an unusually high profit margin of **1,462.5%**. This may indicate a **data error** or an **extreme outlier** (e.g., low-cost, high-margin).
+- **Consistent Margins:** Most other products maintain margins between **0.41–0.46**, indicating stable pricing and cost structures.
+- **Sales Growth:** Certain products show strong YoY growth (_e.g., $50.4M vs $40.4M_), while others are flat.
+
+** Recommendations:**
+- Investigate the **1,462.5% margin** product — may be a **key driver** or **reporting anomaly**.
+- Replicate successful strategies from **high-growth products**.
+
+---
+
+###  Customer Sales Trends
+
+- **Top Customers:** Linde, ORTAS C..., and Apotheca... continue to lead in sales.
+- **Stable Relationships:** Many customers report **identical CY and PY sales** ($64.4M), showing loyalty and consistency.
+- **Growth Potential:** Accounts like **Victory Ltd** and **Eminence...** show room to expand.
+
+** Recommendations:**
+- Focus on **upselling and retaining** top clients to prevent churn.
+- Engage **mid-tier customers** (e.g., Medline, Pacific Ltd) for growth opportunities.
+
+---
+
+###  Geographic Sales Breakdown
+
+- **Top Cities:**
+  - Christchurch – **22.98%**
+  - Waltakere – **23.25%**
+- **New Key Market:** **Hamilton** appears with **20.35%**, suggesting strong potential.
+- **Balanced Sales:** Napier (16.57%) and Manukau (16.95%) show solid contributions.
+
+** Recommendations:**
+- Investigate success drivers in **Hamilton** and consider scaling.
+- Explore **underpenetrated cities** for new market entry.
+
+---
+
+###  Channel Profitability
+
+- **Wholesale** remains the **most profitable** channel.
+- **Distributor** and **Export** channels show stable, albeit lower, contributions.
+- **Profit Margins:** All channels hover around **37%**, indicating efficiency.
+
+** Recommendations:**
+- Maintain current **channel strategies** while identifying possible **efficiency improvements** for Distributor & Export.
+
+---
+
+---
+
+
 ##  Contact
 
 **📧 Email:** [Liaqat.Ali.Shaiz2@gmail.com](mailto:Liaqat.Ali.Shaiz2@gmail.com)  
