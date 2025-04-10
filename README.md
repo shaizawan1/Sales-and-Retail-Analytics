@@ -80,6 +80,8 @@ Includes the following fields:
 
 
 ---
+![Dashboard Overview](Sales-and-Retail-Analytics/Sales_Performance_Dashboard-A.PNG)
+---
 ## 📈 Dashboard A Insights
 
 ---
