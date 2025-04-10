@@ -78,25 +78,76 @@ Includes the following fields:
 - Actionable insights and strategic recommendations
 - Visual storytelling to support business decisions
 
+
 ---
-
-## Recommendations
-
-- Focus marketing on top 5 revenue-generating cities
-- Discontinue or reprice low-margin products
-- Reallocate resources to high-performing sales channels
+## 📈 Dashboard A Insights
 
 ---
 
-## 🚀 Success Criteria
+### 🔢 Key Performance Metrics
 
-- Dashboard adoption across sales and management teams
-- Improved profitability and sales performance within 6 months
-- Identification of at least 3 data-driven opportunities
+- **Total Sales:** $53.5 million (_1.65% increase vs prior year_)
+- **Profit:** $19.8 million (_0.56% increase vs prior year_)
+- **Profit Margin:** 37.0% (_Healthy margin indicating good cost control_)
+- **Products Sold:** 23,200 units
 
 ---
 
+### 📦 Product Performance Analysis
 
+- **Top Performers:** Product 1 is the strongest seller (_highest bar in the chart_)
+- **Consistent Products:** Several products show similar performance YoY (_equal bar heights_)
+- **Growth Opportunities:** Products with increased sales over prior year indicate effective strategies
+
+---
+
+### 📅 Monthly Sales Trend
+
+- **Seasonal Pattern:** Sales peak around **April–May** and **October–November**
+- **YoY Growth:** Most months show current year sales > prior year (_blue bars > orange_)
+- **Weakest Month:** **January** shows the lowest sales in both years
+
+---
+
+### 👥 Customer Analysis
+
+- **Top Customers:** Linde, ORTA'S C..., and Apotheca... are top contributors
+- **Customer Concentration:** Top 3–5 customers account for a large portion of sales
+- **Growth Accounts:** Some customers show significant growth compared to the prior year
+
+---
+
+### 🗺️ Geographic Distribution
+
+- **Top Cities by Sales:**
+  - Christchurch – **22.98%**
+  - Waltakere – **22.92%**
+- **Other Key Contributors:**
+  - Merudau – **16.95%**
+  - Napier – **16.57%**
+- **Opportunity:** Expand in lesser-performing cities to reduce risk and drive growth
+
+---
+
+### 🛒 Channel Performance
+
+- **Most Profitable:** **Wholesale** delivers the highest absolute profit
+- **Healthy Margins:** All channels maintain margins between **36.8% – 37.1%**
+- **Consistency:** Minimal fluctuations in YoY profit across channels
+
+---
+
+### ✅ Recommendations
+
+1. Analyze and replicate **Product 1's success strategy** across other product lines
+2. Leverage **seasonal peaks** with focused marketing efforts
+3. Enhance **account management** for top customers to ensure loyalty and upsell
+4. Identify and **expand in underpenetrated cities** to diversify revenue
+5. Maintain profitability while exploring **operational efficiencies** in sales channels
+
+---
+
+---
 ##  Contact
 
 **📧 Email:** [Liaqat.Ali.Shaiz2@gmail.com](mailto:Liaqat.Ali.Shaiz2@gmail.com)  
